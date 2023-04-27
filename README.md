@@ -1,4 +1,4 @@
-# Three-s-Away-Dice-Game-Probability
+# Threes-Away-Dice-Game-Probability
 A quick empirical test showing the score probabilities of the tabletop dice game "Three's Away" 
 
 -Using the integer Variables in the main function you can adjust the amount of turns i.e the sample size to get more realistic probabilty values.
